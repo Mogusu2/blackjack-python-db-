@@ -1,7 +1,3 @@
-Here’s a clean and structured **README.md** for your Blackjack project:
-
----
-
 # Blackjack Python Game with Database Integration
 
 ## Overview  
