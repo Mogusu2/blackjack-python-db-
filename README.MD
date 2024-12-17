@@ -17,25 +17,6 @@ This is a **terminal-based Blackjack game** built in Python with SQLite database
 
 ---
 
-## Project Structure  
-```
-blackjack-py-db/
-│
-├── database/
-│   ├── db_handler.py    # Database setup and interaction logic
-│
-├── utils/
-│   ├── display.py       # Helper functions for table display
-│
-├── main_game.py         # Main Blackjack game logic
-├── view_history.py      # Display game history in a rich table format
-│
-├── requirements.txt     # Required Python dependencies
-└── README.md            # Project documentation
-```
-
----
-
 ## Setup Instructions  
 
 ### Prerequisites  
