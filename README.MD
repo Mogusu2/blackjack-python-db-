@@ -120,9 +120,6 @@ Pull requests are welcome! For significant changes, please open an issue first t
 
 ---
 
-## License  
-This project is licensed under the **MIT License**.  
-
 ---
 
 ## Author  
@@ -131,5 +128,3 @@ This project is licensed under the **MIT License**.
 - LinkedIn: [James Maroko](https://www.linkedin.com/in/james-maroko/)
 
 ---
-
-Let me know if you want any further additions! 🚀
