@@ -1,10 +1,10 @@
 from classes.game import BlackjackGame
-from database.db_handler import init_db
+from database.db_handler import initialize_database
 from utils.settings import configure_game
 
 def main():
     print("Welcome to Blackjack!")
-    init_db()  # Initialize the database
+    initialize_database()  # Initialize the database
     
     # Configurable settings
     dealer_threshold, num_decks = configure_game()
